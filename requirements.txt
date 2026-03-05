@@ -1,0 +1,8 @@
+requests
+trimesh
+numpy
+pillow
+python-dotenv
+open3d
+matplotlib
+tqdm
